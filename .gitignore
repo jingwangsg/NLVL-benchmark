@@ -1,0 +1,7 @@
+**/work_dir
+**/__pycache__
+**/_archived
+**/kn_util_
+**/debug
+**/.vector_cache
+./projects/contrastive_detr
